@@ -51,7 +51,7 @@ p1{
     background-repeat: no-repeat;
 }
 dop{
-<<<<<<< HEAD
+
     size: 90px;
 }
 .gown{
@@ -64,7 +64,7 @@ form{
     margin: 20px;
     padding: 90px;
     background-repeat: no-repeat;
-=======
+
     size: 91px;
 }
 .form{
@@ -72,5 +72,5 @@ form{
     background-repeat: no-repeat;
     padding: 90px;
     
->>>>>>> f471467dd0a4e488875ca38076ef60e1e1fc0106
+
 }
