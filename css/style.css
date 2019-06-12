@@ -32,10 +32,10 @@ p{
     color: white;
 }
 p1{
-    font-family: 'Josefin Sans', sans-serif;
+   font-family: 'Josefin Sans', sans-serif;
     color: black;
     font-size: 20px;
-    text-align: center;
+    text-align: inherit;
 }
 .Drip{
     background-image: url(../services_icons/design_icon.png);
@@ -52,4 +52,15 @@ p1{
 }
 dop{
     size: 90px;
+}
+.gown{
+    text-align: center;
+}
+form{
+    text-align: center;
+    background-image: url(../Backgrounds/c_image.jpg);
+    width: 1240px;
+    margin: 20px;
+    padding: 90px;
+    background-repeat: no-repeat;
 }
