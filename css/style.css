@@ -53,3 +53,9 @@ p1{
 dop{
     size: 91px;
 }
+.form{
+    background-image: url(../Backgrounds/c_image.jpg);
+    background-repeat: no-repeat;
+    padding: 90px;
+    
+}
