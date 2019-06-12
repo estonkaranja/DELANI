@@ -16,10 +16,10 @@ There may be no need of inputting any of your scripts. but you attain access to 
 
 ---
 #### Tech used
-*Html.
-*Css.
-*javascripts.
-*Bootstrap.
+ *Html.*
+ *Css.*
+ *javascripts.*
+ *Bootstrap.*
  
 ---
 #### Contact information
@@ -29,6 +29,6 @@ with our platform and we can actually find time to help you in real time.
 
 ---
 #### license and copyright information
-Designed by *Estonkaranja* &&copy 2019
+Designed by *Estonkaranja*  2019
 
 ---
